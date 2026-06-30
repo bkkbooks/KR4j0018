@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR4j0018/krp/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書集部十
+  hash: sha256:d860f9d2382c1e9bc3c39d366c670d170c860166a0919e841ef45644dcf23afb
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR4j0018_WYG_000-1a, image: WYG1487/WYG1487-0405a.png}
+body:
+  text: 友古詞詞曲類一詞集之屬提要臣等謹案友古詞一卷宋蔡伸撰伸字伸道莆田人襄之孫自號友古居士宣和中官彭城倅厯官左中大夫書録解題載伸友古詞一卷此本卷數相合伸嘗與向子諲同官彭城漕屬故屢有贈子諲詞而子諲酒邊詞中所載倡酬人姓氏甚夥獨不及伸未詳其故伸詞固遜子諲而才致筆力亦略相伯仲即如南鄉子一闋自注云因向詞有慿書續斷腸句而作今考向詞乃南歌子以伸詞相較其婉約未遽相遜也毛晉刋本頗多疏舛如飛雪滿羣山一調晉注云又名扁舟尋舊約不知此乃後人從本詞後闋起句改名非有異體亦不應即以名本詞惜奴嬌一調晉注云一作粉蝶兒不知粉蝶兒另有一調與惜奴嬌判然不同至青玉案和賀方回韻前闋處字韻訛作地字賀此調當時為人和者不知凡幾晉不能互勘其誤益為失考矣乾隆四十六年十月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:2ac5bacd972c9ef96ec55ed84bf3286707a0d8b67c101db02e23d5da8141d87d
+metadata:
+  title: 友古詞
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-25 00:47:23.284058'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR4j0018/KR4j0018_000.txt
+hash: sha256:456b7fa327eee176906b51387ac7ce911e5c01648903d975722dc34e41df0ffd
